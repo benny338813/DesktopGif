@@ -6,5 +6,5 @@ https://pillow.readthedocs.io/en/3.2.x/installation.html
 
 ver 1.00
 永遠在畫面最上層
-點擊案Esc關閉
+按Esc關閉
 可用滑鼠拖曳
